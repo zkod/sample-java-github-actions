@@ -1,6 +1,6 @@
 package com.novoselov1.sample.githubactions;
 
-public class Sample {
+public class Calculate {
     /**
      * Sum method.
      *
